@@ -1,5 +1,4 @@
-# 💫 About Me:
-![Profile views](https://komarev.com/ghpvc/?username=medaminebensalem&label=Profile%20views&color=0e75b6&style=flat)
+# 💫 About Me: ![Profile views](https://komarev.com/ghpvc/?username=medaminebensalem&label=Profile%20views&color=0e75b6&style=flat)
 Big MERN Projects <br>big projects learning <br>FullStack JS MERN
 
 
