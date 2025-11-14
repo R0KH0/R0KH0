@@ -1,4 +1,4 @@
-# 💫 About Me: ![Profile views](https://komarev.com/ghpvc/?username=r0kh0&label=Profile%20views&color=0e75b6&style=flat)
+# 💫 About Me: ![Profile views](https://komarev.com/ghpvc/?username=r0kh0&label=Profile%20views&color=fe428e&style=flat)
 Big MERN Projects <br>big projects learning <br>FullStack JS MERN
 
 
